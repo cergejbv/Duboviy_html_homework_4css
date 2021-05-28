@@ -1,0 +1,31 @@
+.title {
+    background-color: #A52A2A;
+    }
+
+.color-white {
+    color: white;
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+.picture-mountain {
+    width: 100%;
+}
+.picture-car {
+    border: 4px black dashed;
+}
+a {
+    text-decoration: none;
+}
+.content {
+    font-size: 18px;
+}
+.copyright {
+    background-color: black;
+    text-align: center;
+}
+.copyright {
+    font-size: 20px;
+    color: white;
+}
